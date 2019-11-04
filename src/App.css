@@ -1,12 +1,6 @@
 .App {
   display: flex;
-  align-items: center;
-  justify-content: space-around;
-  width: 300px;
-  margin: 0 auto;
-}
-
-button {
-  white-space: nowrap;
-  margin: 20px;
+  justify-content: space-between;
+    margin: 0 auto;
+  width: 200px;
 }
